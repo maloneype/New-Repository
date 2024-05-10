@@ -1,1 +1,1 @@
-# New-Repository
+Hi There! I'm Paul Maloney. One of Forrest Landry's triples is man-machine-nature. At present, machine and nature are in service to man. I want to help catalize the shift to man and machine being in service to nature as it should be.
